@@ -1,4 +1,4 @@
-# OnsenUIv2-React-PhoneGap-Starter-Kit
+# OnsenUIv2, React and PhoneGap Starter Kit
 StarterKit using OnsenUI v2 (Material Design), React, PhoneGap
 
 Please check out [this repo](https://github.com/OnsenUI/react-onsenui) for more info.
