@@ -10,3 +10,7 @@ git clone git@github.com:gnetsys/OnsenUIv2-React-PhoneGap-Starter-Kit.git
 cd OnsenUIv2-React-PhoneGap-Starter-Kit
 npm install
 ```
+
+To run the app follow the instruction here: 
+[MAC Instructions](http://docs.phonegap.com/getting-started/1-install-phonegap/desktop/#mac)
+[Windows Instructions](http://docs.phonegap.com/getting-started/1-install-phonegap/desktop/#win)
