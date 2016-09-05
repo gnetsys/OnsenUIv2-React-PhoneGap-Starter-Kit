@@ -14,3 +14,5 @@ npm install
 To test run the app on your mobile device follow the instruction here: 
 [MAC](http://docs.phonegap.com/getting-started/1-install-phonegap/desktop/#mac) or 
 [Windows](http://docs.phonegap.com/getting-started/1-install-phonegap/desktop/#win)
+
+[MIT License](https://github.com/gnetsys/OnsenUIv2-React-PhoneGap-Starter-Kit/blob/master/LICENSE#L1)
